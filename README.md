@@ -6,22 +6,11 @@ Criei este repositório para registrar minha evolução enquanto estudo Python. 
 
 ---
 
-##  Exercícios concluídos
-
-### Fundamentos
-
-- ✅ 01 - Olá Mundo
-- ✅ 02 - Nome e Idade
-- ✅ 03 - Sistema de Login
-- ✅ 04 - Caixa Eletrônico
-
----
-
 ## Objetivos
 
 - Aprender Python
 - Desenvolver minha lógica de programação
-- Aprender Git e GitHub
+- Aprender Front-end
 - Criar projetos para meu portfólio
 - Conseguir uma oportunidade de estágio na área de TI
 
@@ -29,8 +18,8 @@ Criei este repositório para registrar minha evolução enquanto estudo Python. 
 
 ##  Próximos desafios
 
-- [ ] Calculadora
-- [ ] Média de notas
+- [x] Calculadora
+- [x] Média de notas
 - [ ] Conversor de temperatura
 - [ ] Pedra, Papel e Tesoura
 - [ ] Sistema Bancário
